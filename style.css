@@ -21,3 +21,6 @@ body {
 nav {
       padding: 8px;
 }
+.logo {
+      float: left;
+      padding: 8px;
