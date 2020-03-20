@@ -35,3 +35,6 @@ nav {
       letter-spacing: 0px;
       text-decoration: none;
 }
+nav ul {
+      float: right;
+}
