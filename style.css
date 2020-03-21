@@ -52,3 +52,6 @@ nav ul li a {
       display: inline-block;
       outline: none;
       color: #fff;
+      text-transform: uppercase;
+      text-decoration: none;
+      font-size: 14px;
