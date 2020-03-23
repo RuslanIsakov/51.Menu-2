@@ -62,3 +62,6 @@ nav ul li a {
       .logo {
             padding: 0;
       }
+.nav-wrapper {
+            position: fixed;
+            top: 0;
