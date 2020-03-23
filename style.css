@@ -71,3 +71,5 @@ nav ul li a {
   z-index: -1;
             background: #fff;
             opacity: 0;
+transition: all 0.2s ease;
+      }
