@@ -73,3 +73,6 @@ nav ul li a {
             opacity: 0;
             transition: all 0.2s ease;
       }
+ .nav-wrapper ul {
+            position: absolute;
+            top: 50%;
