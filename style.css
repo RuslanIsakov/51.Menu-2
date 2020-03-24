@@ -83,3 +83,6 @@ nav ul li a {
             display: block;
             float: none;
             width: 100%;
+            text-align: right;
+            margin-bottom: 10px;
+      }
