@@ -86,3 +86,6 @@ nav ul li a {
             text-align: right;
             margin-bottom: 10px;
       }
+.nav-wrapper ul li:nth-child(1) a {
+            transition-delay: 0.2s;
+      }
