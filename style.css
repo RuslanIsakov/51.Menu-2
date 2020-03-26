@@ -114,3 +114,5 @@ color: #000;
  .nav-btn {
             position: fixed;
             right: 10px;
+ top: 10px;
+            display: block;
