@@ -130,3 +130,6 @@ color: #000;
             border-radius: 2px;
             margin-left: 14px;
       }
+ .nav-btn i:nth-child(1) {
+            margin-top: 16px;
+      }
