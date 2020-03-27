@@ -125,3 +125,5 @@ color: #000;
 .nav-btn i {
             display: block;
             width: 20px;
+            height: 2px;
+            background: #fff;
