@@ -141,3 +141,6 @@ color: #000;
             margin-top: 4px;
       }
 }
+#nav:checked + .nav-btn {
+      transform: rotate(45deg);
+}
