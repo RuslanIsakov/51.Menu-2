@@ -161,3 +161,7 @@ color: #000;
       z-index: 9990;
       opacity: 1;
 }
+#nav:checked ~ .nav-wrapper ul li a {
+      opacity: 1;
+      transform: translateX(0);
+}
