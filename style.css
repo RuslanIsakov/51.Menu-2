@@ -151,3 +151,6 @@ color: #000;
 #nav:checked + .nav-btn i:nth-child(1) {
       transform: translateY(6px) rotate(180deg);
 }
+#nav:checked + .nav-btn i:nth-child(2) {
+      opacity: 0;
+}
