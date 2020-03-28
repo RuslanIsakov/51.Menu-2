@@ -157,3 +157,7 @@ color: #000;
 #nav:checked + .nav-btn i:nth-child(3) {
       transform: translateY(-6px) rotate(90deg);
 }
+#nav:checked ~ .nav-wrapper {
+      z-index: 9990;
+      opacity: 1;
+}
