@@ -144,3 +144,7 @@ color: #000;
 #nav:checked + .nav-btn {
       transform: rotate(45deg);
 }
+#nav:checked + .nav-btn i {
+      background: #000;
+      transition: transform 0.2s ease;
+}
